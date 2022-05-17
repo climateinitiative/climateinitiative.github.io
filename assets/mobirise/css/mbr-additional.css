@@ -1164,6 +1164,25 @@ a {
     left: -1rem;
   }
 }
+.cid-t62LLGrgOU {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #37a916;
+}
+@media (max-width: 991px) {
+  .cid-t62LLGrgOU .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t62LLGrgOU .row {
+  flex-direction: row-reverse;
+}
+.cid-t62LLGrgOU img {
+  width: 100%;
+}
+.cid-t62LLGrgOU .mbr-description {
+  color: #fafafa;
+}
 .cid-t57h8JhSVR {
   padding-top: 0px;
   padding-bottom: 0px;
