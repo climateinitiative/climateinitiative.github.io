@@ -830,6 +830,56 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-t6dFGt7Ey2 {
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+  background-color: #37a916;
+}
+.cid-t6dFGt7Ey2 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-t6dFGt7Ey2 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-t6dFGt7Ey2 .mbr-section-title,
+.cid-t6dFGt7Ey2 .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-t6dFGt7Ey2 .cost {
+  word-break: normal;
+}
+.cid-t6dFGt7Ey2 .card-wrapper {
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #fafafa;
+}
+.cid-t6dFGt7Ey2 .card-wrapper .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .cid-t6dFGt7Ey2 .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-t6dFGt7Ey2 .card-wrapper {
+    padding: 1rem;
+  }
+}
+.cid-t6dFGt7Ey2 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-t6dFGt7Ey2 .card-title {
+  text-align: right;
+}
 .cid-t69SUf1Lv0 {
   z-index: 1000;
   width: 100%;
@@ -1204,6 +1254,25 @@ a {
     max-width: 12.5%;
   }
 }
+.cid-t6dFIhjbIo {
+  background-color: #ffffff;
+}
+.cid-t6dFIhjbIo .mbr-text,
+.cid-t6dFIhjbIo .mbr-section-btn {
+  color: #232323;
+}
+.cid-t6dFIhjbIo .btn {
+  width: 100%;
+}
+.cid-t6dFIhjbIo .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-t6dFIhjbIo P {
+  text-align: left;
+}
+.cid-t6dFIhjbIo H1 {
+  color: #379683;
+}
 .cid-t57h8JhSVR {
   padding-top: 45px;
   padding-bottom: 15px;
@@ -1285,33 +1354,6 @@ a {
 }
 .cid-t3u2iLtqT3 H1 {
   color: #379683;
-}
-.cid-t63LgCivKO {
-  padding-top: 6rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-t63LgCivKO .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-t63LgCivKO .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-t63LgCivKO .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-t63LgCivKO .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 80%;
-  }
 }
 .cid-t69SUf1Lv0 {
   z-index: 1000;
