@@ -5,7 +5,7 @@
       "name": "mobirise5",
       "title": "Mobirise 5",
       "styling": {
-        "primaryColor": "#37a916",
+        "primaryColor": "#353535",
         "secondaryColor": "#379683",
         "successColor": "#40b0bf",
         "infoColor": "#47b5ed",
@@ -69,11 +69,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Climate Initiative",
+        "meta_descr": "Climate Initiative integrates blockchain technology with a moral determination to address the world’s most critical challenges, such as conservation, carbon reduction, and democratization.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/images-1.jpg"
       },
       "components": [
         {
